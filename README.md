@@ -1,4 +1,4 @@
-# TicTacToe AI Project
+# TicTacToe AI Project [![HitCount](http://hits.dwyl.io/ramanshsharma2806/TicTacToe.svg)](http://hits.dwyl.io/ramanshsharma2806/TicTacToe)
 
 This is a Tic Tac Toe console game made with Java. I have given my own touch to the console game with a unique (yet simple) board. 
 
